@@ -1,0 +1,10 @@
+body.dark{
+    background-color: black;
+    color: white;
+
+}
+.togglebutton{
+    border-radius:20px;
+    height: 30px;
+    
+}
