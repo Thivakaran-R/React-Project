@@ -1,8 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 const Toggle = () => {
+    const [isDarktheme,setisDarktheme] =useState(false);
+    const toggleTheme =()=>{
+        setisDarktheme(!isDarktheme);
+    }
   return (
-    <div>Toggle</div>
+    <div>
+        <
+    </div>
   )
 }
 
