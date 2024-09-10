@@ -1,5 +1,8 @@
+body{
+    background-color: rgb(225, 225, 225);
+}
 body.dark{
-    background-color: black;
+    background-color: rgb(44, 44, 44);
     color: white;
 
 }
