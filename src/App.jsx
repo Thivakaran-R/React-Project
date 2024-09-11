@@ -5,6 +5,7 @@ import "./App.css";
 import Child2 from "./Components/Propsdrilling/Child2";
 import Propsdrilling from "./Components/Propsdrilling/Propsdrilling";
 import Toggle from "./Components/Toggle-Switch/Toggle";
+import Usereducer from "./Components/Hook/Usereducer";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -12,6 +13,7 @@ function App() {
   return <>
     <Toggle/>
     <Propsdrilling/>
+    <Usereducer/>
   </>;
 }
 
