@@ -1,13 +1,18 @@
- body{
-    background-color: rgb(225, 225, 225);
+body {
+  background-color: rgb(225, 225, 225);
 }
-body.dark{
-    background-color: rgb(44, 44, 44);
-    color: white;
-
+body.dark {
+  background-color: rgb(44, 44, 44);
+  color: white;
 }
-.togglebutton{
-    border-radius:20px;
+.toggleswitch{
+    background-color: black;
+    color:white;
+    height: 50px;
+    width: 100px;
+    border: 0px;
+}
+.toggle-icon{
     height: 30px;
-    
+    width: 30px;
 }

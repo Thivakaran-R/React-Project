@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Card.css";
+
 import products from "./products.json"; // Importing the JSON file
 
 const Card = () => {
