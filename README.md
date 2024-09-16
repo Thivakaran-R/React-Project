@@ -18,4 +18,36 @@ This is a simple React component that allows users to toggle between light and d
 - **Dynamic Theme Switch**: Users can toggle between dark and light themes by clicking a button.
 - **Responsive UI**: The component dynamically updates the UI to reflect the current theme, displaying the active theme in the heading and button.
 
-![image](https://github.com/user-attachments/assets/cad4bf39-6c7c-4a61-8137-e8c53e86ddf0)
+![image](https://github.com/user-attachments/assets/e2ba99f5-00dc-43ec-a5d5-ca729f49759d)
+
+# React Product Card Component
+
+This project is a simple **Product Card** component in React, where users can view products and add them to their cart. The component dynamically displays products from a JSON file and allows the user to add products to the cart.
+
+## Features
+
+- **Product List**: Displays a list of products fetched from a JSON file.
+- **Add to Cart**: Users can click on the "Add to Cart" button to add items to their cart.
+- **Cart State**: The component manages the cart state using React's `useState` hook.
+
+### `products.json`
+
+The products are stored in a `products.json` file and contain basic product information such as the name, image, and price.
+
+Example JSON structure:
+
+```json
+[
+  {
+    "id": 1,
+    "name": "Shoes",
+    "img": "https://example.com/shoes.jpg",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "name": "Camera",
+    "img": "https://example.com/camera.jpg",
+    "price": 500
+  }
+]
