@@ -18,7 +18,6 @@ This is a simple React component that allows users to toggle between light and d
 - **Dynamic Theme Switch**: Users can toggle between dark and light themes by clicking a button.
 - **Responsive UI**: The component dynamically updates the UI to reflect the current theme, displaying the active theme in the heading and button.
 
-![image](https://github.com/user-attachments/assets/e2ba99f5-00dc-43ec-a5d5-ca729f49759d)
 
 # React Product Card Component
 
