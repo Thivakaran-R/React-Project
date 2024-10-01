@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 
 # React Toggle Theme Component
+
 This is a simple React component that allows users to toggle between light and dark themes. It stores the user's theme preference in `localStorage` so that the chosen theme persists across sessions.
 
 ## Features
