@@ -13,7 +13,6 @@ Currently, two official plugins are available:
 This is a simple React component that allows users to toggle between light and dark themes. It stores the user's theme preference in `localStorage` so that the chosen theme persists across sessions.
 
 ## Features
-
 - **LocalStorage Persistence**: Saves the user's theme preference in `localStorage`, ensuring the theme persists even after a page reload or revisit.
 - **Dynamic Theme Switch**: Users can toggle between dark and light themes by clicking a button.
 - **Responsive UI**: The component dynamically updates the UI to reflect the current theme, displaying the active theme in the heading and button.
