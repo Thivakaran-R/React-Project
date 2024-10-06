@@ -7,7 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-
 # React Toggle Theme Component
 
 This is a simple React component that allows users to toggle between light and dark themes. It stores the user's theme preference in `localStorage` so that the chosen theme persists across sessions.
